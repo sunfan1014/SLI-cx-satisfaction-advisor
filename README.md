@@ -27,7 +27,7 @@ LICENSE                          MIT
 
 | 项 | 值 |
 |---|---|
-| version | 2.32.0 |
+| version | 4.1.0 |
 | repo slug | `SLI-cx-satisfaction-advisor` |
 | GitHub | `https://github.com/sunfan1014/SLI-cx-satisfaction-advisor` |
 
