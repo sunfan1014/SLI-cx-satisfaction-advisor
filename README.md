@@ -1,6 +1,6 @@
 # 客户体验与满意度管理顾问（开源版）
 
-企业服务体验闭环的**判断层**方法与工具：定位体验断在哪一环、该先补哪一环、哪些投入现在不该做。
+企业服务体验闭环的**判断层**方法与工具：定位体验断在哪一环、该先补哪一环、哪些投入现在不该做。方法论主线为「一条闭环 · 四类能力 · 三个底座 · 数智化抓手 · 组织保障」，六环是这条闭环在运营层的执行机制。
 
 ## 这是什么
 
@@ -21,20 +21,22 @@ LICENSE                          MIT
 
 **方式一 · 当方法读**：直接打开 `src/judgement/body.md`，按里面的判定顺序走一遍；要填表就把 `src/judgement/references/` 里对应的表打印出来。
 
-**方式二 · 装成专家**：在 WorkBuddy、SkillHub、虾评任一平台搜索「客户体验与满意度管理顾问」安装，即可直接对话使用（平台版本由同一内容源构建，内容与本仓库一致）。
+**方式二 · 装成专家**：在 WorkBuddy、SkillHub、虾评、Gitee 任一平台搜索「客户体验与满意度管理顾问」安装或获取，即可直接使用（各平台版本由同一内容源构建，内容与本仓库一致）。
 
 ## 版本
 
 | 项 | 值 |
 |---|---|
-| version | 4.1.0 |
+| version | 6.5.2 |
 | repo slug | `SLI-cx-satisfaction-advisor` |
 | GitHub | `https://github.com/sunfan1014/SLI-cx-satisfaction-advisor` |
+| Gitee | `https://gitee.com/sunfan1014/SLI` |
 
 ## 克隆
 
 ```bash
 git clone https://github.com/sunfan1014/SLI-cx-satisfaction-advisor.git
+git clone https://gitee.com/sunfan1014/SLI.git
 ```
 
 ## 许可
